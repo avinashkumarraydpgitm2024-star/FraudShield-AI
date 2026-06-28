@@ -1,2 +1,1 @@
-# AI-Fraud-Detection-System
-Advanced Data Science project for detecting financial fraud using machine learning and large-scale transaction data.
+Enterprise-grade AI-powered Financial Fraud Detection & Risk Intelligence Platform using Machine Learning, Explainable AI, FastAPI, and Interactive Analytics Dashboard.
